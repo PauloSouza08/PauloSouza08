@@ -1,0 +1,5 @@
+- 👋 Oi, Eu sou Paulo Souza
+- 👀 Estou interresado em conhecer funções e suas características que sirvam para o mercado de trabalho em Python
+- 🌱 Atualmente estou aprendendo Python, Java, HTML e CSS
+- 💞️ Procuro colaborar com outros desenvolvedores para aprender e ensinar oque eu saiba
+- 📫 Para entrar em contato chame pelo número +55 13 99744-2008
